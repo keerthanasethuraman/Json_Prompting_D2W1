@@ -1,0 +1,55 @@
+{
+  "scale_framework": {
+    "Subject": {
+      "primary_elements": [
+        "Cities of ancient Tamilnadu with people engaged in traditional activities",
+        "A classical Bharatanatyam dancerperforming in a temple courtyard surrounded by stone sculptures",
+        "Different architectural styles of Tamilnadu temples to Chettinad palaces",
+        "TRaditional Agricultural practices witnessing Kurinji,Mullai,Marutham,Neithal,Paalai landscapes with farmers and cattle",
+        "Hospitality and cultural practices of Tamilnadu with people in traditional attire, cooking, and serving meals in a village setting"
+    ],
+      "architectural_anchors": [
+        "Towering all the important Tamilnadu temples with gopurams and mandapams which are known for its architectural marvel",
+        "Ancient Palaces of Chettinad with intricate woodwork and courtyards",
+        "Stone sculptures, different landscapes,depicting Sangam era, Chola, Pandya, Pallava and Nayak dynasties",
+        "Traditional Tamilnadu homes and people on traditional thinnai with a old woman on long sit",
+        "Depicting the five landscapes of Tamilnadu - Kurinji, Mullai, Marutham, Neithal, Paalai with farmers and cattle in their respective settings"  ,
+        "Traditional Tamilnadu cuisine and hospitality practices with people in traditional attire, cooking, and serving meals in a village setting",
+        "Ancient Tamil letters on stone inscribed pillars highlighting word Tamil",
+        "Women empowerment and cultural practices of Tamilnadu depicting indigenous women of Tamilnadu from the ancient times",
+        "rivers, lakes, and water bodies of Tamilnadu,Green fields,mountains and hills,depicting the natural beauty of Tamilnadu"
+      ]
+    },
+    "Composition": {
+      "framing": "Wide-angle cinematic tapestry showcasing depth from foreground agriculture to background temple gopurams",
+      "depth_layers": {
+        "foreground": "depicting girls of ancient Tamil village playing traditional games like pallanguzhi, children running through paddy fields",
+        "midground": "villagers engaged in daily activities and important temple towers with intricate carvings, showcasing the cultural and architectural richness of Tamilnadu",
+        "background": "a majestic tropical sky framed by sunlight and clouds, with distant hills and rivers"
+      },
+      "camera_angle": "Low-angle perspective emphasizing the towering grand scale of the Dravidian architecture"
+      
+    },
+    "Action": {
+      "human_activity": "Farmer guiding water through agricultural channels; Scholar carefully etching Tamil script onto palm leaves; Dancer in mid-expression",
+      "environmental_dynamics": "Warm morning mist rising over flooded paddy fields, incense smoke curling from temple courtyards, gentle breeze swaying palmyra leaves"
+    },
+    "Location": {
+      "region": "Tamil Nadu, Southern India",
+      "environment": "Historic river-basin city along the Kaveri river merging urban heritage with fertile agricultural fields",
+      "landmarks": "Dravidian temple complex, bustling street markets with marigold flower garlands, traditional thinnai (veranda) homes"
+    },
+    "Aesthetic": {
+      "color_palette": [
+        "Temple Gold",
+        "Terracotta Red",
+        "Deep Emerald Green",
+        "Bright Turmeric Yellow",
+        "Granite Grey"
+      ],
+      "lighting": "Golden hour sunlight casting warm, long shadows and illuminating details on carved stone and silk",
+      "style": "Ultra-realistic photograph, rich textures, fine grain detail, cinematic atmospheric lighting",
+      "render_details": "8k resolution, photorealistic, intricate architectural stone relief details, atmospheric clarity"
+    }
+  }
+}
